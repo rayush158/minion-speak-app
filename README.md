@@ -1,2 +1,2 @@
-# neogcamp-banana
+# Banana/Minion Translation App
  
